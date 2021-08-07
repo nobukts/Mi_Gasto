@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Mi Gasto</string>
+    <string name="mi_gasto">Mi Gasto</string>
+    <string name="luz">Luz</string>
+    <string name="agua">Agua</string>
+    <string name="gas">Gas</string>
+    <string name="super">Super</string>
+    <string name="super">Super</string>
+    <string name="tiendas">Tiendas</string>
+    <string name="feria">Feria</string>
+    <string name="otros">Otros</string>
+    <string name="tienda">tienda</string>
 </resources>
