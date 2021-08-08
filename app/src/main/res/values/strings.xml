@@ -4,10 +4,13 @@
     <string name="luz">Luz</string>
     <string name="agua">Agua</string>
     <string name="gas">Gas</string>
-    <string name="super">Super</string>
-    <string name="super">Super</string>
     <string name="tiendas">Tiendas</string>
     <string name="feria">Feria</string>
     <string name="otros">Otros</string>
     <string name="tienda">tienda</string>
+    <string name="atras">Atras</string>
+    <string name="actualizar_informaci_n">Actualizar información</string>
+    <string name="mostrar_gasto">Mostrar Gasto</string>
+    <string name="mostrar_dias_de_reposición_de_gas">Mostrar dias de reposición de gas</string>
+    <string name="actualizar_fechas">actualizar fechas</string>
 </resources>

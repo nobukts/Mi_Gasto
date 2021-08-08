@@ -10,10 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MiGasto">
         <activity
-            android:name=".LightActivity"
+            android:name=".Water"
             android:exported="true" />
         <activity
-            android:name=".MainActivity"
+            android:name=".Gas"
+            android:exported="true" />
+        <activity
+            android:name=".Light"
+            android:exported="true" />
+        <activity
+            android:name=".MainMenu"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
